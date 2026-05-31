@@ -2,7 +2,7 @@
 
 An AI-powered quiz generator built for K–8 math educators. Enter any topic or upload a worksheet and instantly get a structured, Google Forms-style quiz with multiple choice, true/false, and short answer questions — complete with answer scoring and explanations.
 
-Built as a portfolio project aligned with [Epic Kids'](https://www.getepic.com/) mission to make learning engaging for every child.
+Built as a portfolio project aligned with education mission to make learning engaging for every child.
 
 ---
 
